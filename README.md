@@ -6,7 +6,7 @@ My work for a couple of years took me in a different direction, but at the begin
 I did realize, that there was quite a lot more to learn. I started the Fullstack Open course, which was more in-depth, and introduced more theoretical background.
 During the bootcamp and courses, I have built a couple of small projects, which are on my GitHub page.
 
-I am looking to get professional experience in this field, preferably somewhere, where I have the space to learn and grow as a developer.
+- I am looking to get professional experience in this field, preferably somewhere, where I have the space to learn and grow as a developer.
 
 <!---
 tomwladjackowski/tomwladjackowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
